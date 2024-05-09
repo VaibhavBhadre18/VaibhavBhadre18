@@ -4,18 +4,12 @@
 
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/ritesh-tambe-aa1a70205/">
+  <a href="https://www.linkedin.com/in/vaibhav-bhadre-6565b4242">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.kaggle.com/ritesh0015">
-    <img src="https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=KAGGLE&logoColor=white" alt="Kaggle Badge"/>
-  </a>
-  <a href="[your-twitter-URL](https://twitter.com/ritz_0015)">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-  <a href="https://huggingface.co/Ritesh015">
-    <img src="https://img.shields.io/badge/Hugging Face-gold?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace Badge"/>
-  </a>
+  
+  
+  
 </div>
 
 <div id="header" align="center">
