@@ -19,7 +19,7 @@
 
 <div id="header" align="center">
   <h1>
-  Ritesh Here !! 
+  Hey Vaibhav Here !! 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
@@ -48,7 +48,7 @@
 
 - 🗒️ Mathematics for Machine learning is my favorite comfortzone like Statistics and Probablity and ML algorithms Mathematical Intuitions
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](linkedin.com/in/ritesh-tambe-aa1a70205)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhav-bhadre-6565b4242)
 
 
 ---
