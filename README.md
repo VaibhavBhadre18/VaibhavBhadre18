@@ -13,7 +13,7 @@
 </div>
 
 <div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+  
 </div>
 
 
@@ -31,50 +31,5 @@
 
 ---
 
-### :man_technologist: About Me :
 
-
-<img src="https://media.giphy.com/media/2uw4pRauXH8GBjBE1P/giphy.gif" width="30">Doing Graduation in Artificial Intelligence and Data Science<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-
-:telescope: I love building Data Visualisation Dashboards using tools like PowerBI and Tablue .
-
-- 👨‍💻 Data Anlysis and Machine Learning is my favorite technologies where i love to work mostly.
- 
-- 🕵️‍♂️: In my free time I Used To learn Other technologies such as FASTAPI <img src="https://seeklogo.com/images/F/fastapi-logo-541BAA112F-seeklogo.com.png" width="20">
-
-- <img src="https://media.giphy.com/media/VZV471U1wUShjcsMlE/giphy.gif" width="30"> Wanted to go further in this AI field by learning advance Machine Learning concepts and Deep Learning <img src="https://media.giphy.com/media/VZV471U1wUShjcsMlE/giphy.gif" width="30">
-
-- 📓 I am also going through Data Structures and Algorithm for problem solving and logical reasoning.
-
-- 🗒️ Mathematics for Machine learning is my favorite comfortzone like Statistics and Probablity and ML algorithms Mathematical Intuitions
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhav-bhadre-6565b4242)
-
-
----
-
-### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original-wordmark.svg" title="Python" **alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/fastapi/fastapi-original-wordmark.svg" title="fastapi" **alt="fastapi" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/r/r-original.svg" title="R" **alt="R" width="40" height="40"/>
-</div>
-
-
----
-
-### :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=riteshtambe)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riteshtambe&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
----
-
-### :writing_hand: Blog Posts :
-<!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
